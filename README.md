@@ -1,6 +1,7 @@
 
 # Cryptro: The MetaVerse Crypto
 ![Metaverse crypto](https://i.ibb.co/N6syjB0/4f49bfcb-5ee0-4bef-b89d-1fef3f844916.jpg)
+
 MetaVerse Crypto is a collaborative project to bring the best possible security to the future of social media and communication platform, the meta-verse. This project aims to be the default cryptography library in the AOSP and android based mixed-reality apps. The security we are working on is less reliant on key transfers and with variable strength levels starting from 2048 bit up to 4096 bit. This makes it quantum resistant and quantum proof.
 
 ## Motivation
